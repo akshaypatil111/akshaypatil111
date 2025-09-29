@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshaypatil111
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in DevOps
 - 🌱 I’m currently learning machine learning, Python, Tableau, ASP.Net
 - 📫 How to reach me aksh.patil3@gmail.com
 
